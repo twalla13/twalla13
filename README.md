@@ -2,7 +2,7 @@
 
 **Software Engineer · Full-Stack Developer · Problem Solver**
 
-I’m a developer with a strong foundation in math and software engineering. My GitHub is where I explore real-world problems, build systems end to end, and sharpen skills across the stack — from designing APIs to automating deployments.
+I’m a developer with a strong foundation in math and software engineering. My GitHub is where I explore real-world problems, build systems end to end, and sharpen skills across the stack.
 
 ---
 
